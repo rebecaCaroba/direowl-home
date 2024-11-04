@@ -16,7 +16,7 @@
         <nav id="nav">
             <ul class="menu">
                 <li><a href="index.html">Home</a></li>
-                <li><a href="Contato.html">Contato</a></li>
+                <li><a href="Contato.php">Contato</a></li>
                 <li><a href="#">Cadastro</a></li>
                 <li><a href="#" class="login-btn">Login</a></li>
             </ul>

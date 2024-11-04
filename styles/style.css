@@ -261,3 +261,20 @@ footer {
 
 }
 
+.fqastotal {
+    margin: 100px;
+    text-align: justify;
+}
+
+.fqastotal ul {
+    margin-left: 20px;
+}
+
+.fqastotal h1,h2, h3 {
+    margin-top: 20px;
+    color: #f8c04b;
+}
+
+.hrfqas {
+    margin-bottom: 20px;
+}
