@@ -7,6 +7,8 @@
     <title>DireOwl Contato</title>
     <link rel="stylesheet" href="./styles/styles.css">
     <link rel="stylesheet" href="./styles/mobile.css">
+    <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+
 </head>
 
 <body>
@@ -28,6 +30,12 @@
         </nav>
         
     </header>
+    <div vw class="enabled">
+        <div vw-access-button class="active"></div>
+        <div vw-plugin-wrapper>
+          <div class="vw-plugin-top-wrapper"></div>
+        </div>
+      </div>
     <main>
         <section class="contact-section">
             <h1>Contato</h1>
